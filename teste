@@ -1,0 +1,28 @@
+.css-selector {
+    background: linear-gradient(90deg, #fbba72, #ca5310, #2c2825, #3e92cc, #d4d9d6);
+    background-size: 1000% 1000%;
+    -webkit-animation: lucidtones 30s ease infinite;
+    -moz-animation: lucidtones 30s ease infinite;
+    -o-animation: lucidtones 30s ease infinite;
+    animation: lucidtones 30s ease infinite;
+}
+@-webkit-keyframes lucidtones {
+    0%{background-position:0% 74%}
+    50%{background-position:100% 27%}
+    100%{background-position:0% 74%}
+}
+@-moz-keyframes lucidtones {
+    0%{background-position:0% 74%}
+    50%{background-position:100% 27%}
+    100%{background-position:0% 74%}
+}
+@-o-keyframes lucidtones {
+    0%{background-position:0% 74%}
+    50%{background-position:100% 27%}
+    100%{background-position:0% 74%}
+}
+@keyframes lucidtones {
+    0%{background-position:0% 74%}
+    50%{background-position:100% 27%}
+    100%{background-position:0% 74%}
+}
